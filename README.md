@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Mathematics student at the University of Waterloo, pursuing a major in Statistics and Computational Mathematics! I'm passionate about all things data and love to work on projects that relate to my hobbies like 🎶music and 🏀basketball. Some of my favourite technologies to work are Python, PyTorch, OpenCV, HTML/CSS, MySQL and API framweworks. 
+I'm a Mathematics student at the University of Waterloo, pursuing a major in Statistics and Computational Mathematics! I'm passionate about all things data and love to work on projects that relate to my hobbies like 🎶music and 🏀basketball. Some of my favourite technologies to work with are Python, PyTorch, OpenCV, HTML/CSS, MySQL and API framweworks. 
 - 🌇 I'm currently working at a startup called **Assembly Corp**: A company dedicated to making sustainable living solutions in big cities
 - ✈️ To keep myself busy, I was selected for a **Sponsorhsip Coordinator** role with **Google Student Developer Clubs** and joined UW-WARG as a Software Developer
 - 💻 I'm working on a Computer Vision basketball score-counter as well as a webpage to assist with course selection for Waterloo Math students
