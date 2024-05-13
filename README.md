@@ -45,3 +45,4 @@ I'm a Mathematics student at the University of Waterloo, pursuing a major in Sta
 ## 🔥 My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AJ-C22&theme=dark&background=000000)](https://git.io/streak-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AJ-C22&show_icons=true&theme=dark)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AJ-C22&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
