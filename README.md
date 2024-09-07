@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 I'm a Mathematics student at the University of Waterloo, pursuing a major in Statistics and Computational Mathematics! I'm passionate about all things data and love to work on projects that relate to my hobbies like 🎶music and 🏀basketball. Some of my favourite technologies to work with are Python, PyTorch, OpenCV, HTML/CSS, MySQL and API framweworks. 
 - 🌇 I'm currently working at a startup called **Assembly Corp**: A company dedicated to making sustainable living solutions in big cities
-- ✈️ To keep myself busy, I was selected for a **Sponsorhsip Coordinator** role with **Google Student Developer Clubs** and joined UW-WARG as a Software Developer
+- ✈️ To keep myself busy, I was selected for a **Software Developer** role within the **UW Data Science Club** and joined UW-WARG on their Software team
 - 💻 I'm working on a Computer Vision basketball score-counter as well as a webpage to assist with course selection for Waterloo Math students
-- 🤖 Right now I'm super invested in learning about Computer Vision, Machine Learning and Deep Learning
+- 🤖 Right now I'm super invested in learning about Computer Vision, Machine Learning and Statistics
 
 ### 🌎 Find me around the web:
 - Contact me on [Linkedin](https://www.linkedin.com/in/ajai-chandi-036195200/)
