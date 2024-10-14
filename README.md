@@ -27,7 +27,7 @@ I'm a Mathematics student at the University of Waterloo, pursuing a major in Sta
 
 ### 🌎 Find me around the web:
 - Contact me on [Linkedin](https://www.linkedin.com/in/ajai-chandi-036195200/)
-- Check out my [Portfolio](https://aj-c22.github.io/Ajai-s-Portfolio/main.html)!
+- Check out my [Portfolio](https://aj-c22.github.io/portfolioV2/)!
 
 ## 📚 My Skills
 <div>
