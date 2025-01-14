@@ -19,11 +19,11 @@ Here are some ideas to get you started:
   <img width="800" height="400" object-fit="cover" src="https://gocnhoannie.com/wp-content/uploads/2020/07/S%E1%BB%B1-nghi%E1%BB%87p-kh%C3%B4ng-ph%E1%BA%A3i-l%C3%BAc-n%C3%A0o-c%C5%A9ng-l%C3%A0-m%E1%BB%99t-%C4%91%C6%B0%E1%BB%9Dng-th%E1%BA%B3ng.gif" alt="👋 Hey, I'm Ajai" title="👋 Hey, i'm Ajai"/>
 </p>
 
-I'm a Mathematics student at the University of Waterloo, pursuing a major in Statistics and Computational Mathematics! I'm passionate about all things data and love to work on projects that relate to my hobbies like 🎶music and 🏀basketball. Some of my favourite technologies to work with are Python, PyTorch, OpenCV, HTML/CSS, MySQL and API framweworks. 
+I'm a Mathematics student at the University of Waterloo, pursuing a major in Statistics and a minor in Computing! I'm passionate about all things data and hoping to continue learning about the fields of Data Engineering and ML Ops. 
 - 🌇 I just finished working as a **Data Analyst** a startup called **Assembly Corp**: A company dedicated to making sustainable living solutions in big cities
-- ✈️ To keep myself busy, I was selected for a **Software Developer** role within the **UW Data Science Club** and joined UW-WARG on their Software team
-- 💻 I'm working on a Computer Vision basketball score-counter as well as a webpage to assist with course selection for Waterloo Math students
-- 🤖 Right now I'm super invested in learning about Computer Vision, Machine Learning and Statistics
+- ✈️ Currently working as a **Data Insights & Analytics Intern** at Loblaws Companies Limited
+- 💻 I'm working on a Basketball Player Performance Predictor to enhance my skills in data engineering and machine learning
+- 🤖 Contributing to an application that helps Waterloo students build their schedules
 
 ### 🌎 Find me around the web:
 - Contact me on [Linkedin](https://www.linkedin.com/in/ajai-chandi-036195200/)
