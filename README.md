@@ -20,9 +20,8 @@ Here are some ideas to get you started:
 </p>
 
 I'm a Mathematics student at the University of Waterloo, pursuing a major in Statistics and a minor in Computing! I'm passionate about all things data and hoping to continue learning about the fields of Data Engineering and ML Ops. 
-- 🌇 I just finished working as a **Data Analyst** a startup called **Assembly Corp**: A company dedicated to making sustainable living solutions in big cities
-- ✈️ Currently working as a **Data Insights & Analytics Intern** at Loblaws Companies Limited
-- 💻 I'm working on a Basketball Player Performance Predictor to enhance my skills in data engineering and machine learning
+- 🌇 I just finished working as a **Data Engineer** at **President's Choice Bank**
+- 💻 I'm working on a AI platform to take spoken word history and automatically generate an ever expanding family biography, timeline and family tree
 - 🤖 Contributing to an application that helps Waterloo students build their schedules
 
 ### 🌎 Find me around the web:
